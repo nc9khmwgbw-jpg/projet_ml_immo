@@ -1,4 +1,4 @@
-# Projet: Prédiction des prix immobiliers (California Housing)
+# Projet : Prédiction des prix immobiliers (California Housing)
 
 ## 1. Problème Métier
 L'agence immobilière souhaite automatiser l'estimation des prix pour gagner du temps et réduire les erreurs humaines.
